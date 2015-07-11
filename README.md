@@ -1,5 +1,7 @@
 # Badges
 
+[![Join the chat at https://gitter.im/jstriebel/badges](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jstriebel/badges?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A collection of all JavaScript related and free for open-source readme badges out there. All of the services are live and operating on this repositoriy's dummy code.
 
 Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
